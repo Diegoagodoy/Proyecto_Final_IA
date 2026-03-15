@@ -3,7 +3,7 @@
 
 **Autor:** Diego A. Godoy  
 **Curso:** Inteligencia Artificial – Generación de Prompts - Comisión: N° 86420 
-**Repositorio Drive:** https://drive.google.com/drive/folders/1FYNcTPh0Cvxc8RIB5anVgdl6v9RZXKw0?usp=sharing
+**Repositorio Drive:**   https://drive.google.com/drive/folders/1FYNcTPh0Cvxc8RIB5anVgdl6v9RZXKw0?usp=sharing  
 **Proyecto Final**
 
 ---
